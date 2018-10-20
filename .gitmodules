@@ -1,0 +1,6 @@
+[submodule "trips-api"]
+	path = trips-api
+	url = https://aarohmankad@github.com/aarohmankad/trips-api.git
+[submodule "trips-client"]
+	path = trips-client
+	url = https://aarohmankad@github.com/aarohmankad/trips-client.git
